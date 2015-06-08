@@ -2,5 +2,10 @@ body {
 	text-align: center;
 }
 p {
-	padding-left: 20%;
+	text-align: left;
+}
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
 }
