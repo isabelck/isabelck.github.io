@@ -12,11 +12,11 @@ p {
 	margin-right: auto;
 	width: 700px;
 }
-a:visited {
-	text-decoration: none;
-	color: #616365
-}
 a:link {
 	text-decoration: none;
 	color: #9864b0
+}
+a:visited {
+	text-decoration: none;
+	color: #616365
 }
