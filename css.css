@@ -14,9 +14,10 @@ p {
 }
 a {
 	text-decoration: none;
+	font-style: bold;
 }
 a:link {
-	color: #160016;
+	color: #49011D;
 }
 a:visited {
 	color: #79676E;
