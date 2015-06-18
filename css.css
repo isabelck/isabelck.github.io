@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	font-family: Verdana;
 	color: #49011D;
-	background-color: #534248;
+	background-color: #DC93AF;
 }
 p {
 	text-align: left;
@@ -19,5 +19,5 @@ a:link {
 	color: #9864b0;
 }
 a:visited {
-	color: #704E5B;
+	color: #534248;
 }
