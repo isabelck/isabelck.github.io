@@ -4,6 +4,10 @@ body {
 	color: #49011D;
 	background-color: #E6AFC4;
 }
+#subheading {
+	text-align: center;
+	font-size: 14px;
+}
 p {
 	text-align: left;
 }
